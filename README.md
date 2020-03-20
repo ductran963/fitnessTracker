@@ -11,5 +11,5 @@ The purpose of this homework is to allow users to update and track their fitness
 
 Link to github page: https://github.com/ductran963/fitnessTracker
 
-
+Link to deployed project: https://stark-ridge-32580.herokuapp.com/
 
